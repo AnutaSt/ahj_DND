@@ -2,7 +2,7 @@
 ---
 ### **проверка AppVeyor**
 
-![CI](https://github.com/AnutaSt/ahj_DND/actions/workflows/web.yml/badge.svg)
+![CI](https://ci.appveyor.com/api/projects/status/24mtpk292gcw67ye?svg=true)
 
 ### **Ссылка на страницу**
 [Github Page](https://AnutaSt.github.io/ahj_DND/)
